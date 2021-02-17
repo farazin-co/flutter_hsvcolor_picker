@@ -22,78 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa147fd-9da0-44e1-8c14-1a4c3b10c965" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/flutterhsvcolorpickerexample/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/android/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/Info.plist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner/main.m" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/MainPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/AlphaPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/ColorPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/HSVPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/HexPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/PaletteHuePickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/PalettePickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/PaletteSaturationPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/PaletteValuePickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/RGBPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/SliderPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/SwatchesPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/Pages/WheelPickerPage.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/packages/Avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_hsvcolor_picker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_hsvcolor_picker.iml" afterDir="false" />
-    </list>
+    <list default="true" id="3aa147fd-9da0-44e1-8c14-1a4c3b10c965" name="Default" comment="-- unnecessary pickers removed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,6 +48,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -176,6 +106,14 @@
       <option name="presentableId" value="Default" />
       <updated>1551416710765</updated>
     </task>
+    <task id="LOCAL-00001" summary="-- unnecessary pickers removed">
+      <created>1613567836526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613567836526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,5 +126,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-- unnecessary pickers removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="-- unnecessary pickers removed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1779" y="165" key="SettingsEditor" timestamp="1613568171772">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-1779" y="165" key="SettingsEditor/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613568171772" />
+    <state x="-867" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613567839870">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-867" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613567839870" />
+    <state x="-1512" y="416" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613567931809">
+      <screen x="-2560" y="0" width="2560" height="1040" />
+    </state>
+    <state x="-1512" y="416" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613567931809" />
   </component>
 </project>
