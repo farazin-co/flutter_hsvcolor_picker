@@ -213,11 +213,11 @@ class _ThumbPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     final Paint paintWhite = new Paint()
       ..color = Colors.white
-      ..strokeWidth = 4
+      ..strokeWidth = 2
       ..style = PaintingStyle.stroke;
     final Paint paintBlack = new Paint()
-      ..color = Colors.black
-      ..strokeWidth = 6
+      ..color = Colors.black38
+      ..strokeWidth = 4
       ..style = PaintingStyle.stroke;
 
     canvas.drawCircle(Offset.zero, _ThumbPainter.width, paintBlack);
