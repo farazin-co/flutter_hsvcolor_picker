@@ -13,4 +13,4 @@ RGB HSV Wheel Hue Saturation Values.
 
 ![](https://github.com/fluttercandies/flutter_hsvcolor_picker/blob/master/screenshot/design.png)
 Details in [example/] folder.
- adfasdf
+ 
