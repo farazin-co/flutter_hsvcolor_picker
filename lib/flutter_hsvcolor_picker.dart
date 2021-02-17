@@ -2033,7 +2033,7 @@ class ColorPickerState extends State<ColorPicker> {
 
 
   //pickers
-  int _index = 4;
+  int _index = 0;
   List<_IPicker> _pickers;
   void _pickerOnChanged(_IPicker value) => this._index=this._pickers.indexOf(value);
 
@@ -2044,65 +2044,6 @@ class ColorPickerState extends State<ColorPicker> {
 
     //pickers
     this._pickers = [
-
-      //SwatchesPicker
-      new _IPicker(
-          index: 0,
-          name: "Swatches",
-          builder: (context)=>new SwatchesPicker(
-            onChanged: (value)=>super.setState(()=>this._colorWithAlphaOnChanged(value)),
-          )
-      ),
-
-      //RGBPicker
-      new _IPicker(
-          index: 1,
-          name: "RGB",
-          builder: (context)=>new RGBPicker(
-            color: this._color,
-            onChanged: (value)=>super.setState(()=>this._colorOnChanged(value)),
-          )
-      ),
-
-      //HSVPicker
-      new _IPicker(
-          index: 2,
-          name: "HSV",
-          builder: (context)=>new HSVPicker(
-            color: this._hSVColor,
-            onChanged: (value)=>super.setState(()=>this._hSVColorOnChanged(value)),
-          )
-      ),
-
-      //WheelPicker
-      new _IPicker(
-          index: 3,
-          name: "Wheel",
-          builder: (context)=>new WheelPicker(
-            color: this._hSVColor,
-            onChanged: (value)=>super.setState(()=>this._hSVColorOnChanged(value)),
-          )
-      ),
-
-      //PaletteHuePicker
-      new _IPicker(
-          index: 4,
-          name: "Palette Hue",
-          builder: (context)=>new PaletteHuePicker(
-            color: this._hSVColor,
-            onChanged: (value)=>super.setState(()=>this._hSVColorOnChanged(value)),
-          )
-      ),
-
-      //PaletteSaturationPicker
-      new _IPicker(
-          index: 5,
-          name: "Palette Saturation",
-          builder: (context)=>new PaletteSaturationPicker(
-            color: this._hSVColor,
-            onChanged: (value)=>super.setState(()=>this._hSVColorOnChanged(value)),
-          )
-      ),
 
       //PaletteValuePicker
       new _IPicker(
@@ -2258,7 +2199,7 @@ class ColorPickerState extends State<ColorPicker> {
               this._buildHead(),
               this._buildDropdown2(),
               this._buildBody(),
-              this._buildAlphaPicker(),
+              // this._buildAlphaPicker(),
             ]
         );
 
