@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa147fd-9da0-44e1-8c14-1a4c3b10c965" name="Default" comment="-- unnecessary pickers removed" />
+    <list default="true" id="3aa147fd-9da0-44e1-8c14-1a4c3b10c965" name="Default" comment="-- unnecessary pickers removed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -96,7 +98,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -113,7 +115,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613567836526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-- unnecessary pickers removed">
+      <created>1613568188146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613568188146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-- unnecessary pickers removed">
+      <created>1613568384101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613568384101</updated>
+    </task>
+    <task id="LOCAL-00004" summary="-- unnecessary pickers removed">
+      <created>1613568470108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613568470108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,14 +155,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="-- unnecessary pickers removed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1779" y="165" key="SettingsEditor" timestamp="1613568171772">
+    <state x="-1779" y="165" key="SettingsEditor" timestamp="1613568260895">
       <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
-    <state x="-1779" y="165" key="SettingsEditor/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613568171772" />
-    <state x="-867" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613567839870">
+    <state x="-1779" y="165" key="SettingsEditor/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613568260895" />
+    <state x="-867" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613568492179">
       <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
-    <state x="-867" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613567839870" />
+    <state x="-867" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-2560.0.2560.1040@-2560.0.2560.1040" timestamp="1613568492179" />
     <state x="-1512" y="416" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613567931809">
       <screen x="-2560" y="0" width="2560" height="1040" />
     </state>
